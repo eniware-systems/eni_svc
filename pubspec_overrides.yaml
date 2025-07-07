@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: eni_utils
+dependency_overrides:
+  eni_utils:
+    path: ../eni_utils
