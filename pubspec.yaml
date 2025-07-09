@@ -13,9 +13,8 @@ dependencies:
     sdk: flutter
 
   eni_utils:
-    git:
-      url: git@github.com:eniware-systems/eni_utils.git
-      ref: main
+    hosted: https://github.com/eniware-systems/eni_utils
+    version: ^2.0.1
 
 dev_dependencies:
   flutter_test:
