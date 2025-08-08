@@ -1,3 +1,14 @@
+## 2.0.6
+
+- Added `map_extensions` from eni_utils
+- Updated Dependecies:
+    eni_utils: ^2.0.3
+
+## 2.0.5
+
+- Updated Dependecies:
+    eni_utils: ^2.0.2
+
 ## 2.0.4
 
 - Updated to Flutter 3.32.5
