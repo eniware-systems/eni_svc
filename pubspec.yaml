@@ -15,7 +15,7 @@ dependencies:
   eni_utils:
     git:
       url: https://github.com/eniware-systems/eni_utils.git
-      ref: main
+      ref: 2.0.3
 
 dev_dependencies:
   flutter_test:
