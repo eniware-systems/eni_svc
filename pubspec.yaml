@@ -1,6 +1,6 @@
 name: eni_svc
 description: "Eniware Systems DI Service Framework"
-version: 2.0.6
+version: 2.0.7
 homepage: https://eniware-systems.de
 publish_to: https://gitea.eniware-systems.de/api/packages/eni-flutter/pub
 
@@ -15,7 +15,7 @@ dependencies:
   eni_utils:
     git:
       url: https://github.com/eniware-systems/eni_utils.git
-      ref: 2.0.3
+      ref: 2.0.4
 
 dev_dependencies:
   flutter_test:
